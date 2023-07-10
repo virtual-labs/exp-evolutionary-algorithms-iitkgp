@@ -1,0 +1,18 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The process of maintaining diversity in a population of individuals in evolutionary algorithms is primarily achieved through:",
+      "answers": {
+        "a": "Mutation",
+        "b": "Selection",
+        "c": "Crossover",
+        "d": "Replication"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+    
+  ]
+}
