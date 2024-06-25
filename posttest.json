@@ -1,0 +1,29 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Which of the following is not a key component of evolutionary algorithms",
+      "answers": {
+        "a": "Selection",
+        "b": " Crossover",
+        "c": " Mutation",
+        "d": "Gradient Descent"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The main objective of fitness evaluation in evolutionary algorithms is to:",
+      "answers": {
+        "a": "Determine the genetic representation of individuals",
+        "b": "Calculate the diversity of the population",
+        "c": "Measure the quality or performance of individuals",
+        "d": "Assign a random fitness score to each individual"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
